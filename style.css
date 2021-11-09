@@ -4,16 +4,19 @@ body {
 ul {
   margin:0;
   background: #D4E7EE;
+  list-style-type: none;
   overflow: hidden;
   padding: 0px;
+}
+li {
+  display: inline;
 }
 
 a {
   font-family: Century Gothic;
-  font-size: 16px;
-  display: inline-table;
-  padding:10px;
-  border-right: 1px solid #ADC0CE;
-  background: rgba(173, 192, 206, .3);
+  font-size: 18px;
+  padding:20px;
   color: #29838C;
+  text-decoration: none;
+  text-indent: 30px;
   }

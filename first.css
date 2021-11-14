@@ -1,0 +1,32 @@
+div {
+  font-family: system-ui;
+  font-weight: bolder 10px;
+  font-size: 17px;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10px;
+}
+.heading {
+  font-family: Century Gothic;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 0;
+}
+
+  .end {
+    padding-top: 200px;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 14px;
+    text-align: center;
+  }
+
+.chem {
+  padding-top: 150px;
+  font-family: Century Gothic;
+  font-weight: bold;
+  text-align: right;
+  color: #003aa6;
+  font-size: 18px;
+}

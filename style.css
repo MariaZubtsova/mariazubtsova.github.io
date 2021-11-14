@@ -9,15 +9,18 @@ ul {
   margin:0;
   background: #D4E7EE;
   list-style-type: none;
+  text-align: center;
   overflow: hidden;
   padding: 20px;
 }
 .mmenu {
   display: inline;
+  text-align: center;
 }
 
 .menu {
   font-family: Century Gothic;
+  text-align: center;
   font-size: 18px;
   padding:20px;
   color: #29838C;
@@ -28,7 +31,7 @@ ul {
   #header {
     background-image: url(IMG_1245.jpeg);
     background-position: left;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     margin-top: : 0;
     margin: -20;
     padding-top: 60px;

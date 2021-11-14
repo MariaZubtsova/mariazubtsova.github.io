@@ -19,7 +19,7 @@ div {
     padding-top: 200px;
     font-family: Trebuchet MS, sans-serif;
     font-size: 14px;
-    text-align: center;
+    text-align: left;
   }
 
 .chem {
@@ -29,4 +29,8 @@ div {
   text-align: right;
   color: #003aa6;
   font-size: 18px;
+}
+
+a {
+  color: #7d7d7d;
 }

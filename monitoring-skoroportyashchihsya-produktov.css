@@ -45,7 +45,12 @@ a {
   font-style: oblique;
   font-weight: 600;
 }
-
+.textt {
+  background: #edfafc;
+  display: block;
+  text-align: left;
+  font-weight: 600;
+}
 h3 {
   padding-top: 20px;
   padding-bottom: 0;

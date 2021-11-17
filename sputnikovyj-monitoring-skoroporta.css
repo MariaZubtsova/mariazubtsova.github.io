@@ -1,17 +1,3 @@
-.text {
-  background: #edfafc;
-  display: block;
-  list-style-type: circle;
-  text-align: left;
-  font-style: oblique;
-  font-weight: normal;
-}
-
-h3 {
-  padding-top: 20px;
-  padding-bottom: 0;
-}
-
 div {
   font-family: system-ui;
   font-weight: bolder 10px;
@@ -45,7 +31,27 @@ hr {
   text-align: left;
   background-color: #edfafc;
 }
+
 a {
   text-align: left;
   color: #7d7d7d;
+}
+
+.text {
+  background: #edfafc;
+  display: block;
+  list-style-type: circle;
+  text-align: left;
+  font-style: oblique;
+  font-weight: normal;
+}
+.textt {
+  background: #edfafc;
+  display: block;
+  text-align: left;
+  font-weight: normal;
+}
+h3 {
+  padding-top: 20px;
+  padding-bottom: 0;
 }
